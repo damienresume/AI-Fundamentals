@@ -1,0 +1,84 @@
+{
+    "students": [
+        {
+            "id": 201,
+            "name": "Olivia",
+            "course": "Artificial Intelligence",
+            "GPA": 3.8,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "id": 202,
+            "name": "Liam",
+            "course": "Data Science",
+            "GPA": 3.9,
+            "city": "Los Angeles",
+            "state": "CA"
+        },
+        {
+            "id": 203,
+            "name": "Emma",
+            "course": "Machine Learning",
+            "GPA": 3.6,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "id": 204,
+            "name": "Noah",
+            "course": "Cloud Computing",
+            "GPA": 3.7,
+            "city": "Houston",
+            "state": "TX"
+        },
+        {
+            "id": 205,
+            "name": "Ava",
+            "course": "Cyber Security",
+            "GPA": 3.5,
+            "city": "Phoenix",
+            "state": "AZ"
+        },
+        {
+            "id": 206,
+            "name": "Elijah",
+            "course": "Data Analytics",
+            "GPA": 3.8,
+            "city": "Philadelphia",
+            "state": "PA"
+        },
+        {
+            "id": 207,
+            "name": "Sophia",
+            "course": "AI & Robotics",
+            "GPA": 3.9,
+            "city": "San Antonio",
+            "state": "TX"
+        },
+        {
+            "id": 208,
+            "name": "James",
+            "course": "Deep Learning",
+            "GPA": 3.4,
+            "city": "San Diego",
+            "state": "CA"
+        },
+        {
+            "id": 209,
+            "name": "Isabella",
+            "course": "Business Intelligence",
+            "GPA": 3.7,
+            "city": "Dallas",
+            "state": "TX"
+        },
+        {
+            "id": 210,
+            "name": "William",
+            "course": "Computer Vision",
+            "GPA": 3.8,
+            "city": "San Jose",
+            "state": "CA"
+        }
+    ]
+}
